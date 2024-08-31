@@ -1,0 +1,82 @@
+
+
+.App {
+  position: relative;
+  padding: 20px;
+}
+
+.box {
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: center;
+  margin-bottom: 20px; 
+  max-width: 100%; 
+}
+
+.box img {
+  max-width: 100%;
+  height: auto;
+}
+
+.file-label {
+  cursor: pointer;
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.file-input {
+  display: none;
+}
+
+
+.box input[type="text"] {
+  width: 80%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.box button {
+  margin: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+.box button:hover {
+  background-color: #0d6ccc;
+  color: #fff;
+}
+
+.App button {
+  background-color: #27ae60;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.App button:hover {
+  background-color: #219651;
+  
+}
+
+ul{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+h1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color:rgb(39, 116, 19)
+}
+
+
